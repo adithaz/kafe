@@ -22,7 +22,7 @@ Untuk menggunakan KAFE, pengguna perlu membuat akun pribadi dengan memasukan use
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/1200px-Android_Studio_icon_%282023%29.svg.png" alt="android" width="40" height="40"/> 
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" width="40" height="40"/>
+    <img src="https://eudeka.storage.googleapis.com/wp/flutter-logo-sharing-1.png" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
