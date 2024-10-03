@@ -53,12 +53,12 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCNGwqVpQkB2hygooXaUASOATx0zFRylsw',
-    appId: '1:143753992138:android:b55d3509decadae6f3e133',
-    messagingSenderId: '143753992138',
-    projectId: 'adisaputra-kafe',
-    databaseURL: 'https://adisaputra-kafe-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'adisaputra-kafe.appspot.com',
+    apiKey: '-',
+    appId: '-',
+    messagingSenderId: '-',
+    projectId: '-',
+    databaseURL: '-',
+    storageBucket: '-',
   );
 
 }
