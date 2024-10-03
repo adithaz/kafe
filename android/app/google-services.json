@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "143753992138",
+    "firebase_url": "https://adisaputra-kafe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "adisaputra-kafe",
+    "storage_bucket": "adisaputra-kafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143753992138:android:1a06755abb2988b7f3e133",
+        "android_client_info": {
+          "package_name": "com.adisaputr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGwqVpQkB2hygooXaUASOATx0zFRylsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143753992138:android:b55d3509decadae6f3e133",
+        "android_client_info": {
+          "package_name": "com.adisaputra.kafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGwqVpQkB2hygooXaUASOATx0zFRylsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
